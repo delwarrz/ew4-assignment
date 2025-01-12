@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
             productItem.innerHTML = `
                 <div class="row g-0">
                     <div class="col-3">
-                        <img src="/assets/img/products/product-1.png" class="img-fluid rounded-start" alt="...">
+                        <img src="assets/img/products/product-1.png" class="img-fluid rounded-start" alt="...">
                     </div>
                     <div class="col-9">
                         <div class="card-body">
